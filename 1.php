@@ -79,6 +79,8 @@ foreach($final_str as $vrec){
 //	break;
 }
 
+
+echo '*************************** Completed writing to the file ***************************';
 echo '*************************** Completed writing to the file ***************************';
 
 /*
