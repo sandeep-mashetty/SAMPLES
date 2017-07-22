@@ -110,3 +110,6 @@ $id = substr(trim($id), 0, -1);
 */
 
 //	include_once("common/footer.php");
+	include_once("common/footer1.php");
+
+
