@@ -1,5 +1,10 @@
 <?php 
 
+
+function asffa(){
+	
+}
+
 function read_file_obj($file_name){
 	$str = '';
 	$str_res = array();
