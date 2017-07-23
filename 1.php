@@ -2,6 +2,9 @@
 
 
 function test(){
+
+}
+function test1(){
 	
 }
 function read_file_obj($file_name){
