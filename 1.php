@@ -1,24 +1,6 @@
 <?php 
 
 
-function test1branch(){
-}
-function testss(){
-}
-function testss2(){
-}
-
-function testss2(){
-
-
-function test(){
-}
-function test2(){
-}
-function test1(){
-	
-
-}
 function read_file_obj($file_name){
 	$str = '';
 	$str_res = array();
