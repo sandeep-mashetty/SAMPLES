@@ -1,11 +1,8 @@
 <?php 
 
 function test1branch(){
-
 }
-
 function testss(){
-	
 }
 
 function read_file_obj($file_name){
