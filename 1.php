@@ -12,7 +12,8 @@ function testss2(){
 
 
 function test(){
-
+}
+function test2(){
 }
 function test1(){
 	
