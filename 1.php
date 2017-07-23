@@ -1,5 +1,9 @@
 <?php 
 
+function test1branch(){
+	
+}
+
 function read_file_obj($file_name){
 	$str = '';
 	$str_res = array();
