@@ -8,6 +8,7 @@ function asffa(){
 function read_file_obj($file_name){
 	$str = '';
 	$str_res = array();
+	$var = '';
 	
 	//	id,subject_id,title,chapter_id,topic,total_questions
 	$myfile = fopen($file_name, "r") or die("Unable to open file!");
