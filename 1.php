@@ -1,5 +1,6 @@
 <?php 
 
+
 function test1branch(){
 }
 function testss(){
@@ -8,6 +9,14 @@ function testss2(){
 }
 
 function testss2(){
+
+
+function test(){
+
+}
+function test1(){
+	
+
 }
 function read_file_obj($file_name){
 	$str = '';
@@ -15,6 +24,7 @@ function read_file_obj($file_name){
 	
 	//	id,subject_id,title,chapter_id,topic,total_questions
 	$myfile = fopen($file_name, "r") or die("Unable to open file!");
+	$vvv = '';
 	while(!feof($myfile)){ 
 		$str = fgets($myfile);	
 		$obj = new stdClass();
